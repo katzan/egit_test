@@ -2,7 +2,7 @@ package de.vogella.git.first;
 
 public class GitTest {
 	 public static void main(String[] args) {
-		    System.out.println("Git is mega cool project!!!");
+		    System.out.println("This test should be final before major testing!!!");
 	 }
 
 }
